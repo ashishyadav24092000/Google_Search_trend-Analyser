@@ -1,0 +1,2 @@
+# Google_Search_trend-Analyser
+This project perform analysis about the term "Cloud Computing" . It analyses hoy many times thw word has been searched and by how many people on daily,monthly and yearly basis in the whole world. After analysing this we can answer questions like when search was maximum,when it was minimum,what were the search trends, which countries have searched most about it etc. This projectcan help us understand what's  the current requirement of market is and what problems needed to be solved for effective growth of any organiztaion.
